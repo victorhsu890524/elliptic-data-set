@@ -1,1 +1,2 @@
-data/elliptic_txs_features.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/elliptic_txs_features.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/node_data.csv filter=lfs diff=lfs merge=lfs -text
